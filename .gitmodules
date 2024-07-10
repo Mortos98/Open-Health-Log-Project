@@ -1,3 +1,6 @@
 [submodule "open-health-log-client"]
 	path = open-health-log-client
 	url = https://github.com/Mortos98/open-health-log-client.git
+[submodule "open-health-log-server"]
+	path = open-health-log-server
+	url = https://github.com/Mortos98/open-health-log-server.git
